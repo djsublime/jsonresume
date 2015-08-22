@@ -1,0 +1,152 @@
+{
+  "basics": {
+    "name": "Dragan Jovanovic",
+    "label": "Web Developer",
+    "picture": "",
+    "email": "dragan.doe@gmail.com",
+    "phone": "+381 69 1 621 081",
+    "website": "http://draganjovan.com",
+    "summary": "Web Developer since early 2006.",
+    "location": {
+      "address": "Vizantijski Bulevar 28/29",
+      "postalCode": "18000",
+      "city": "NIs",
+      "countryCode": "RS",
+      "region": "California"
+    },
+    "profiles": [
+      {
+        "network": "GIthub",
+        "username": "djsublime",
+        "url": "https://github.com/djsublime"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Interactive",
+      "position": "web developer",
+      "website": "http://www.interactive.rs/",
+      "startDate": "01/05/2006",
+      "endDate": "01/05/2011",
+      "summary": "Web Development",
+      "highlights": []
+    },
+    {
+      "company": "Fortytwo Telecom",
+      "position": "PHP Developer",
+      "website": "http://www.fortytwogroup.com/",
+      "startDate": "01/06/2011",
+      "endDate": "01/05/2013",
+      "summary": "Bulk sms gateway",
+      "highlights": [
+        "CRM System [Internal system]",
+        "Data Analyze System [Internal system]",
+        "Haud System [ UI | http://haud.com/]"
+      ]
+    },
+    {
+      "company": "Enetsport",
+      "position": "Web Developer",
+      "website": "http://enetsport.com/",
+      "startDate": "01/05/2013",
+      "endDate": "*",
+      "summary": "Betting Company",
+      "highlights": [
+        "http://bet-passion.com [ frontend ]",
+        "http://bettingrace2013.betpassion.enetsport.com [ frontend / backend | laravel 3.2]",
+        "http://bettingrace.bet-passion.com [frontend/backend | laravel 3.2]"
+      ]
+    },
+    {
+      "company": "Xcsolution",
+      "position": "Project Based Web Developer",
+      "website": "http://www.xcplat.com/",
+      "startDate": "01/01/2015",
+      "endDate": "*",
+      "summary": "Bulk sms gateway",
+      "highlights": [
+        "http://pricing.xcplat.com [laravel 3.2]",
+        "http://monitoring.xcplat.com [laravel 3.2]",
+        "http://api.xcplat.com/ [API | laravel 4.2]",
+        "http://pct.xcplat.com/ [ API Client | Laravel 4.2 /AngularJS] ]"
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "University of NIs",
+      "area": "Theoretical Physics",
+      "studyType": "Master",
+      "startDate": "1996-10-01",
+      "endDate": "on hold",
+      "gpa": "4.0",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Front End",
+      "level": "Master",
+      "keywords": [
+        "HTML5",
+        "CSS3",
+        "Twitter Bootstarp",
+        "JS",
+        "jQuery",
+        "DataTables",
+        "AngularJS"
+      ]
+    },
+    {
+      "name": "Back End ",
+      "level": "master",
+      "keywords": [
+        "PHP",
+        "Laravel",
+        "MySql"
+      ]
+    },
+    {
+      "name": "Server Administration",
+      "level": "Master",
+      "keywords": [
+        "LAMP",
+        "NGINX/ NODE.JS"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Proficient"
+    },
+    {
+      "language": "Serbian",
+      "fluency": "Native speaker"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Music",
+      "keywords": [
+        "Guitar"
+      ]
+    },
+    {
+      "name": "Android",
+      "keywords": [
+        "Custom Rom"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Kevin Panzavecchia",
+      "reference": "We found Dragan to be hardworking and efficient.He was a commited team player and from a technical perspective he has considered to be an asset to the development team."
+    }
+  ]
+}
