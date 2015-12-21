@@ -12,7 +12,7 @@
       "postalCode": "18000",
       "city": "NIs",
       "countryCode": "RS",
-      "region": "California"
+      "region": "Nisavski"
     },
     "profiles": [
       {
@@ -24,25 +24,23 @@
   },
   "work": [
     {
-      "company": "Interactive",
+      "company": "Netagame",
       "position": "web developer",
-      "website": "http://www.interactive.rs/",
-      "startDate": "01/05/2006",
-      "endDate": "01/05/2011",
-      "summary": "Web Development",
+      "website": "http://www.netagame.com/",
+      "startDate": "01/09/2015",
+      "endDate": "",
+      "summary": "Client PSD to Casino Framework defined markup",
       "highlights": []
     },
     {
-      "company": "Fortytwo Telecom",
-      "position": "PHP Developer",
-      "website": "http://www.fortytwogroup.com/",
-      "startDate": "01/06/2011",
-      "endDate": "01/05/2013",
+      "company": "Xcsolution",
+      "position": "Project Based Web Developer",
+      "website": "http://www.xcplat.com/",
+      "startDate": "01/01/2015",
+      "endDate": "01/10/2015",
       "summary": "Bulk sms gateway",
       "highlights": [
-        "CRM System [Internal system]",
-        "Data Analyze System [Internal system]",
-        "Haud System [ UI | http://haud.com/]"
+        "Data Analyze System [Internal system]"
       ]
     },
     {
@@ -59,17 +57,16 @@
       ]
     },
     {
-      "company": "Xcsolution",
-      "position": "Project Based Web Developer",
-      "website": "http://www.xcplat.com/",
-      "startDate": "01/01/2015",
-      "endDate": "*",
+      "company": "Fortytwo Telecom",
+      "position": "PHP Developer",
+      "website": "http://www.fortytwogroup.com/",
+      "startDate": "01/06/2011",
+      "endDate": "01/05/2013",
       "summary": "Bulk sms gateway",
       "highlights": [
-        "http://pricing.xcplat.com [laravel 3.2]",
-        "http://monitoring.xcplat.com [laravel 3.2]",
-        "http://api.xcplat.com/ [API | laravel 4.2]",
-        "http://pct.xcplat.com/ [ API Client | Laravel 4.2 /AngularJS] ]"
+        "CRM System [Internal system]",
+        "Data Analyze System [Internal system]",
+        "Haud System [ UI | http://haud.com/]"
       ]
     }
   ],
