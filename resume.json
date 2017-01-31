@@ -1,14 +1,14 @@
 {
   "basics": {
     "name": "Dragan Jovanovic",
-    "label": "Web Developer",
+    "label": "Senior Web Developer",
     "picture": "",
     "email": "dragan.doe@gmail.com",
-    "phone": "+381 69 1 621 081",
-    "website": "http://draganjovan.com",
+    "phone": "+381 63 1 621 081",
+    "website": "http://draganjovan.info",
     "summary": "Web Developer since early 2006.",
     "location": {
-      "address": "Vizantijski Bulevar 28/29",
+      "address": "Vizantijski Bulevar",
       "postalCode": "18000",
       "city": "NIs",
       "countryCode": "RS",
@@ -29,7 +29,7 @@
       "website": "http://www.netagame.com/",
       "startDate": "01/09/2015",
       "endDate": "",
-      "summary": "Client PSD to Casino Framework defined markup",
+      "summary": "IGP-DCPS data center processing system",
       "highlights": []
     },
     {
@@ -111,8 +111,8 @@
       "name": "Server Administration",
       "level": "Master",
       "keywords": [
-        "LAMP",
-        "NGINX/ NODE.JS"
+        "LAMP / LEMP",
+        "DOCKER"
       ]
     }
   ],
