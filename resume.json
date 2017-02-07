@@ -28,7 +28,7 @@
       "position": "web developer",
       "website": "http://www.netagame.com/",
       "startDate": "01/09/2015",
-      "endDate": "",
+      "endDate": "01/02/2017",
       "summary": "IGP-DCPS data center processing system",
       "highlights": []
     },
@@ -89,22 +89,20 @@
       "name": "Front End",
       "level": "Master",
       "keywords": [
-        "HTML5",
-        "CSS3",
+        "HTML5/CSS3",
+        "SASS/LESS",
         "Twitter Bootstarp",
-        "JS",
-        "jQuery",
-        "DataTables",
-        "AngularJS"
+        "JavaScript/jQuery/AngularJS"
       ]
     },
     {
       "name": "Back End ",
       "level": "master",
       "keywords": [
-        "PHP",
-        "Laravel",
-        "MySql"
+        "PHP/MYSQL",
+        "LARAVEL/LUMEN",
+        "API/API clients Development",
+        "WORDPRESS Development"
       ]
     },
     {
@@ -112,7 +110,21 @@
       "level": "Master",
       "keywords": [
         "LAMP / LEMP",
-        "DOCKER"
+        "DOCKER / RancherOS"
+      ]
+    },
+    {
+      "name": "Development Environment",
+      "level": "master",
+      "keywords": [
+        "GIT",
+        "Composer",
+        "Bower",
+        "VirtualBox",
+        "SublimeText",
+        "Ubuntu OS",
+        "nodejs",
+        "Postman"
       ]
     }
   ],
@@ -136,7 +148,7 @@
     {
       "name": "Android",
       "keywords": [
-        "Custom Rom"
+        "App Develpment"
       ]
     }
   ],
