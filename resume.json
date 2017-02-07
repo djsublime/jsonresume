@@ -2,7 +2,7 @@
   "basics": {
     "name": "Dragan Jovanovic",
     "label": "Senior Web Developer",
-    "picture": "",
+    "picture": "https://avatars1.githubusercontent.com/u/4509495?v=3&s=460",
     "email": "dragan.doe@gmail.com",
     "phone": "+381 63 1 621 081",
     "website": "http://draganjovan.info",
@@ -48,7 +48,7 @@
       "position": "Web Developer",
       "website": "http://enetsport.com/",
       "startDate": "01/05/2013",
-      "endDate": "*",
+      "endDate": "01/09/2015",
       "summary": "Betting Company",
       "highlights": [
         "http://bet-passion.com [ frontend ]",
