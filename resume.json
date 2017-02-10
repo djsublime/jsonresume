@@ -3,16 +3,16 @@
     "name": "Dragan Jovanovic",
     "label": "Web Developer",
     "picture": "https://avatars1.githubusercontent.com/u/4509495?v=3&s=460",
-    "email": "dragan.doe@gmail.com",
-    "phone": "+381 63 1 621 081",
+    "email": "",
+    "phone": "",
     "website": "http://draganjovan.info",
-    "summary": "My name is Dragan Jovanovic. I live in Nis, Serbia, and I've been web developer since early 2006. Trough out the years I have had pleasure to work in teams and I have also manged to work on projects individually. I enjoy the fact that this job requires you to keep up with latest technology.",
+    "summary": "The name is Dragan Jovanovic. I have been working as a programmer since early 2006 and have had the pleasure of working in teams as well as on individual projects..Over my years of experience in working as a programmer i believe i have gained strong insight into the essence of programming and i wish to share and expand my knowledge in the field.",
     "location": {
-      "address": "Vizantijski Bulevar",
-      "postalCode": "18000",
-      "city": "NIs",
+      "address": "",
+      "postalCode": "",
+      "city": "Niš",
       "countryCode": "RS",
-      "region": "Nisavski"
+      "region": ""
     },
     "profiles": [
       {
@@ -154,7 +154,7 @@
   ],
   "references": [
     {
-      "name": "Kevin Panzavecchia",
+      "name": "Fortytwo Telecom - Kevin Panzavecchia",
       "reference": "We found Dragan to be hardworking and efficient.He was a commited team player and from a technical perspective he has considered to be an asset to the development team."
     }
   ]
